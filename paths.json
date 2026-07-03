@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/forms-poc/:/",
+    "/content/forms-poc/configuration:/.helix/config.json",
+    "/content/forms-poc/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/forms-poc/"
+  ]
+}
